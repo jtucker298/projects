@@ -1,0 +1,61 @@
+/*CSS reset settings here*/
+*{
+ margin: 5px;
+ padding: 2px;
+} 
+#wrapper{
+ width: 950px;
+ background-color: rgb(19, 51, 93);
+ margin: 0px auto;
+ display: inline-block;
+}
+#header{
+ min-height: 65px;
+ background-color: rgb(207, 48, 54);
+ border-radius: 5px;
+}
+#h1{
+    color: rgb(10, 168, 206);
+    text-indent: 0px
+}
+#navigation { 
+ position: relative;
+ float: left;
+ min-height: 300px;
+ width: 200px;
+ background-color: rgb(42, 125, 140);
+ display: inline-block;
+ border-radius: 15px;
+  
+}
+#main_content{
+
+ min-height: 300px;
+ width: 700px;
+ background-color: rgb(14, 24, 34);
+ display: inline-block;
+ border-radius: 15px;
+ }
+ #h2{
+    color: rgb(191, 215, 234);
+    text-indent: 0px
+  }
+ #footer{
+    min-height: 40px;
+    width: 700px;
+    background-color: rgb(93, 102, 115);
+    display: inline-block;
+    border-radius: 15px;
+ }
+ 
+ #footer2 {
+    color: rgb(191, 215, 234);
+    text-indent: 0px
+  }
+
+ #a {
+   color: rgb(10, 168, 206);
+   text-indent: 0px
+ }
+
+ 

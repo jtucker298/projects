@@ -1,0 +1,130 @@
+/*CSS reset settings here*/
+*{
+    margin: 5px;
+    padding: 2px;
+    background: black
+   }
+    .header_container {
+        background-color: white;
+        margin: 0px auto;
+        padding: 0px auto;
+        width: auto;
+        height: auto;
+    }
+    .title{       
+        vertical-align: middle;
+         text-align: left;
+        font-size: 25px;
+        width: 945px;
+        height: 47px;
+        background-color: white;
+        margin: 0px;
+        padding: 0px;  
+        display: inline-block;
+    }
+
+    .title2{
+        vertical-align: middle;
+        background-color: white;
+        text-align: right;
+        font-size: 25px;
+        width: auto;
+        height: 47px;
+        margin: 0px;
+        padding: 0px;
+        text-align: right;
+        margin: 0px;
+        padding: 0px;  
+        display: inline-block;
+
+    } 
+    .column1 {
+        width: auto;
+        height: auto;
+        margin: auto;
+        padding: auto;
+        box-sizing: border-box;
+        background-color: white;
+        display: inline-block;
+    }
+    .columnabout {
+        width: 410px;
+        height: 285px;
+        box-sizing: border-box;
+        background-color: white;
+        display: inline-block;
+        vertical-align: top;
+        margin: 5px;
+        padding: auto;  
+    } 
+        p {
+            background-color: white;
+            width: 400px;
+            height: auto;
+            box-sizing: border-box;
+            word-wrap: break-word;
+        }   
+        blockquote {
+            background-color: gray;
+            height: 30px;
+            width: 415px;
+            margin: 0px;
+            padding: 4px;
+            box-sizing: border-box;
+            word-wrap: break-word;
+        a {
+            background-color: white;
+            height: auto;
+            width: auto;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            word-wrap: break-word;
+
+        }
+        div {
+            word-wrap: break-word;
+        }
+
+    
+    .body{
+        background-color: black;
+        box-sizing: border-box;
+        display: inline-block
+    }
+  
+
+    .lamode_container {
+        background-color: white;
+        width: auto;
+        height: auto;
+        margin: 0px;
+        padding: 0px;
+        
+        display: inline-block;
+    }
+
+    .family_contacts {
+        background-color:white;
+        width: auto;
+        height: auto;
+        margin: 0px;
+        padding: 0px;
+        
+        display: inline-block;
+
+    }
+    
+    .five_eleven {
+        background-color:white;
+        width: auto;
+        height: auto;
+        margin: 0px;
+        padding: 0px;
+        
+        display: inline-block;
+        }
+    img {
+
+        background-color: white
+    }
